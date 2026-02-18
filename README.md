@@ -3,7 +3,7 @@ Develop a modular Streamlit + Supabase attendance system with secure student mar
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_y88upvy88upvy88u_ejhvBpd.jpg"
+  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_9zhnqa9zhnqa9zhn.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -11,7 +11,7 @@ Develop a modular Streamlit + Supabase attendance system with secure student mar
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Tech_Stack.png"
+  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/New_Tab_-_Google_Chrome_1_5_2026_9_22_14_PM.png"
        alt="System Architecture"
        width="600" />
 </p>
